@@ -95,3 +95,7 @@ The full finance logic
         量化
         算法
         对冲基金
+        
+        http://guoyunsky.iteye.com/blog/1781885
+        
+        .
